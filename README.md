@@ -20,13 +20,3 @@ Goal: Build and evaluate a CNN model to classify handwritten digits with high ac
 2. Install requirements (`pip install -r requirements.txt`)
 3. Open `notebooks/MnistClassification.ipynb` in Jupyter or Colab
 4. Run all cells to retrain or evaluate the model
-
-## Folder Structure
-
-mnist-classifier/
-├── notebooks/
-│ └── MnistClassification.ipynb
-├── models/
-│ └── mnist-cnn-model.h5
-├── README.md
-├── requirements.txt
