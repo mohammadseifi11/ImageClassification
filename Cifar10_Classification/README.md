@@ -13,7 +13,7 @@ The repository includes code and examples for visualizing:
 
  # Clone the repo
 git clone https://github.com/mohammadseifi11/ImageClassification.git
-cd your-cnn-visualizations
+cd Cifar10_Classification
 
 # Install dependencies
 pip install -r requirements.txt
