@@ -1,0 +1,6 @@
+tensorflow
+matplotlib
+numpy
+seaborn
+scikit-learn
+notebook # If you're using Jupyter Notebooks
