@@ -12,7 +12,7 @@ The repository includes code and examples for visualizing:
  This is an excellent resource for anyone looking to go beyond model accuracy and dive into **how CNNs process images and what they learn at different stages**.
 
  # Clone the repo
-git clone https://github.com/mohammadseifi11/ImageClassification.git
+git clone https://github.com/mohammadseyfi11/ImageClassification.git
 cd ImageClassification
 
 # Install dependencies
