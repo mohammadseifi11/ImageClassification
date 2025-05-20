@@ -13,7 +13,7 @@ The repository includes code and examples for visualizing:
 
  # Clone the repo
 git clone https://github.com/mohammadseifi11/ImageClassification.git
-cd Cifar10_Classification
+cd ImageClassification
 
 # Install dependencies
 pip install -r requirements.txt
